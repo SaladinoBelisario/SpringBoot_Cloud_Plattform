@@ -1,0 +1,12 @@
+[submodule "eureka-server"]
+	path = eureka-server
+	url = git@github.com:SaladinoBelisario/SpringBoot_Cloud_Plattform-Eureka_Server.git
+[submodule "items-service"]
+	path = items-service
+	url = git@github.com:SaladinoBelisario/SpringBoot_Cloud_Plattform-Items_Service.git
+[submodule "products-service"]
+	path = products-service
+	url = git@github.com:SaladinoBelisario/SpringBoot_Cloud_Plattform-Products_Service.git
+[submodule "zuul-server"]
+	path = zuul-server
+	url = git@github.com:SaladinoBelisario/SpringBoot_Cloud_Plattform-Zuul_Service.git
